@@ -14,7 +14,7 @@ Install Flask and Flask-SQLAlchemy by running "pip install flask flask-sqlalchem
 
 Blockchain:
 
-Begin by downloading Ganache from here. Ganache will serve as a local blockchain node, providing trial accounts pre-funded with ether. It's important to note that actual transactions on a blockchain incur gas fees, paid in ether, which translates to real money.
+Begin by downloading Ganache. It will serve as a local blockchain node, providing trial accounts pre-funded with ether. It's important to note that actual transactions on a blockchain incur gas fees, paid in ether, which translates to real money.
 
 To develop smart contracts, utilize Remix IDE, which supports Solidity programming language.
 
