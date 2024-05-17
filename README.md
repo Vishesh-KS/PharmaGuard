@@ -27,7 +27,3 @@ Links:
 Remix IDE : https://remix.ethereum.org/
 
 Ganache: https://archive.trufflesuite.com/ganache/
-
-NOTE: Although not recommended, link to env folder: https://drive.google.com/file/d/1nlWPcH3XoAFEy4-8SFGKxOKjggk_TICL/view?usp=drive_link
-
-You might face errors and warnings while installing and/or starting npm as many dependencies are depricated. If the issue persists, use this link to download the env folder. Copy the folder and all its elements in the root directory.
