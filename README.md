@@ -1,4 +1,4 @@
-Setup
+# Setup
 
 Frontend:
 
@@ -22,7 +22,7 @@ Install the Web3 Python library using the command "pip install web3" in your ter
 
 Finally, start the backend server by running "python app.py" in your terminal from the root directory. Ensure that the frontend server is also running simultaneously by executing "npm start" in another terminal.
 
-Links:
+# Links:
 
 Remix IDE : https://remix.ethereum.org/
 
