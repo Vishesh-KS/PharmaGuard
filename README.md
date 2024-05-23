@@ -27,5 +27,3 @@ Links:
 Remix IDE : https://remix.ethereum.org/
 
 Ganache: https://archive.trufflesuite.com/ganache/
-
-Author : Vishesh Kumar Singh & Nipun
